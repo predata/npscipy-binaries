@@ -11,6 +11,7 @@ cd Python-2.7.9
 make
 make install
 
+cd /home/vagrant
 virtualenv -p /home/vagrant/python-2.7.9/bin/python venv
 
 source venv/bin/activate

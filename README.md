@@ -10,10 +10,12 @@ NumPy:
   * 1.8.1
   * 1.8.2
   * 1.9.0
+  * 1.9.2
 
 SciPy:
   * 0.13.3 (compiled against NumPy 1.9.0)
   * 0.14.0 (compiled against NumPy 1.8.1)
+  * 0.15.1 (compiled against NumPy 1.9.2)
 
 These packages were compiled on a virtual machine that matched Heroku's
 runtime environment. The virtual machine ran Ubuntu 10.04 LTS (Lucid Lynx)

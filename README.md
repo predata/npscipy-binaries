@@ -6,12 +6,14 @@ supported:
 
 NumPy:
   * 1.9.1
+  * 1.9.2
 
 SciPy:
   * 0.14.0 (compiled against NumPy 1.9.1)
+  * 0.16.0 (compiled against NumPy 1.9.2)
 
 These packages were compiled on a virtual machine that matched Heroku's
-`cedar-14`
+`cedar`
 runtime environment. The virtual machine ran Ubuntu 14.04 LTS (Trusty Tahr)
 with gcc toolchain version 4.8.2.
 

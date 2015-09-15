@@ -17,5 +17,5 @@ virtualenv -p /home/vagrant/python-2.7.9/bin/python venv
 
 source venv/bin/activate
 
-pip install numpy==1.9.1
-pip install scipy==0.14.0
+pip install numpy==1.9.2
+pip install scipy==0.16.0
